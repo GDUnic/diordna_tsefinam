@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="github"
+          fetch="https://github.com/" 
+          sync-c="true"
+          sync-j="4"  
+          clone-depth="1" />
 
   <remote name="aosp"
            fetch="https://android.googlesource.com"
@@ -607,6 +612,7 @@
 
   <!-- Add all tracked DU/AOSP repos -->
   <include name="o8x_default.xml" />
-  <include name="gemini.xml" />
+  <include name="snippets/gemini.xml" />
+  <include name="snippets/lineage.xml" />
 
 </manifest>
