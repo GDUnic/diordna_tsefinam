@@ -24,9 +24,9 @@
 	<!-- <project path="hardware/qcom/media" name="LineageOS/android_hardware_qcom_media" groups="qcom,pdk" remote="los" /> -->
 	<!-- <project path="hardware/qcom/wlan" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan,pdk" remote="los" /> -->
 	<!-- <project path="hardware/ril" name="LineageOS/android_hardware_ril" groups="pdk" remote="los" /> -->
-	<!-- <project path="hardware/qcom/audio-caf/msm8996" name="LineageOS/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="lineage-15.0-caf-8996" remote="los" /> -->
-	<!-- <project path="hardware/qcom/display-caf/msm8996" name="LineageOS/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="lineage-15.0-caf-8996" remote="los" /> -->
-	<!-- <project path="hardware/qcom/media-caf/msm8996" name="LineageOS/android_hardware_qcom_media" groups="qcom" revision="lineage-15.0-caf-8996" remote="los" /> -->
+	<project path="hardware/qcom/audio-caf/msm8996" name="LineageOS/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="lineage-15.0-caf-8996" remote="los" />
+	<project path="hardware/qcom/display-caf/msm8996" name="LineageOS/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="lineage-15.0-caf-8996" remote="los" />
+	<project path="hardware/qcom/media-caf/msm8996" name="LineageOS/android_hardware_qcom_media" groups="qcom" revision="lineage-15.0-caf-8996" remote="los" />
 	<!-- <project path="hardware/qcom/wlan-caf" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan" revision="lineage-15.0-caf" remote="los" /> -->
 	<!-- <project path="hardware/ril-caf" name="LineageOS/android_hardware_ril" groups="pdk" revision="lineage-15.0-caf" remote="los" /> -->
 
