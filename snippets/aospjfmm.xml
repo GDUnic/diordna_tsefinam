@@ -6,7 +6,7 @@
            	review="gerrit.dirtyunicorns.com" 
            	clone-depth="1" />
 
-	<project path="device/qcom/sepolicy" name="AOSP-JF-MM/platform_device_qcom_sepolicy" remote="aojp" />
+	<!-- <project path="device/qcom/sepolicy" name="AOSP-JF-MM/platform_device_qcom_sepolicy" remote="aojp" /> -->
 	<project path="external/connectivity" name="AOSP-JF-MM/platform_external_connectivity" remote="aojp" />
 	<project path="external/selinux" name="AOSP-JF-MM/platform_external_selinux" groups="pdk" remote="aojp" />
 	<project path="external/skia" name="AOSP-JF-MM/platform_external_skia" groups="pdk,qcom_msm8x26" remote="aojp" />
