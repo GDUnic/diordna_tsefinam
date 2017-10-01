@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<!-- <project path="manifest" name="android_manifest" remote="du" /> -->
+	<project path="bionic" name="ACollect/diordna_cinoib" remote="github" revision="dirty-oreo" />
+	<project path="build/soong" name="ACollect/diordna_dliub_gnoos" remote="github" revision="dirty-oreo" >
+		<linkfile src="root.bp" dest="Android.bp" />
+		<linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+	</project>
+
+
 	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="github" revision="gemini-oreo" />
 
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
