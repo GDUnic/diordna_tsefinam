@@ -43,7 +43,7 @@
   <!-- hardware -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="du" />
   <project path="hardware/ril" name="android_hardware_ril" remote="du" />
-  <!-- <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="du" /> -->
+  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="du" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="du" />
   <!-- <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="du" /> -->
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="du" />
