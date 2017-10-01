@@ -1,0 +1,9 @@
+export ARCH=arm64
+export CROSS_COMPILE=aarch64-linux-android-
+export PATH=~/du/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin:$PATH
+
+
+
+make gemini_defconfig
+make
+make clean && make mrproper
