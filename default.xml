@@ -613,4 +613,5 @@
 	<include name="o8x_default.xml" />
 	<include name="snippets/gemini.xml" />
 	<include name="snippets/lineage.xml" />
+	<include name="snippets/aospjfmm.xml" />
 </manifest>

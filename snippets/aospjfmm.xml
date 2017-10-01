@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  	<remote name="aojp"
+           	revision="aosp-8.0-test"
+           	fetch="https://github.com/"
+           	review="gerrit.dirtyunicorns.com" 
+           	clone-depth="1" />
+
+	<project path="external/selinux" name="AOSP-JF-MM/platform_external_selinux" groups="pdk" remote="aojp" />
+	<project path="external/skia" name="AOSP-JF-MM/platform_external_skia" groups="pdk,qcom_msm8x26" remote="aojp" />
+	<project path="external/tinycompress" name="AOSP-JF-MM/platform_external_tinycompress" groups="pdk" remote="aojp" />
+</manifest>
