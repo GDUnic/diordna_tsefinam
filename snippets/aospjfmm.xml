@@ -6,7 +6,17 @@
            	review="gerrit.dirtyunicorns.com" 
            	clone-depth="1" />
 
+	<project path="device/qcom/sepolicy" name="AOSP-JF-MM/platform_device_qcom_sepolicy" remote="aojp" />
+	<project path="external/connectivity" name="AOSP-JF-MM/platform_external_connectivity" remote="aojp" />
 	<project path="external/selinux" name="AOSP-JF-MM/platform_external_selinux" groups="pdk" remote="aojp" />
 	<project path="external/skia" name="AOSP-JF-MM/platform_external_skia" groups="pdk,qcom_msm8x26" remote="aojp" />
-	<project path="external/tinycompress" name="AOSP-JF-MM/platform_external_tinycompress" groups="pdk" remote="aojp" />
+
+	<project path="system/bt" name="AOSP-JF-MM/platform_system_bt" groups="pdk" remote="aojp" />
+	<!-- <project path="system/core" name="AOSP-JF-MM/platform_system_core" groups="pdk" remote="aojp" /> -->
+	<!-- <project path="system/extras" name="AOSP-JF-MM/platform_system_extras" groups="pdk" remote="aojp" /> -->
+	<project path="system/media" name="AOSP-JF-MM/platform_system_media" groups="pdk" remote="aojp" />
+	<project path="system/nfc" name="AOSP-JF-MM/platform_system_nfc" groups="pdk" remote="aojp" />
+	<project path="system/qcom" name="AOSP-JF-MM/platform_system_qcom" remote="aojp" />
+	<project path="system/sepolicy" name="AOSP-JF-MM/platform_system_sepolicy" groups="pdk" remote="aojp" />
+	<project path="system/vold" name="AOSP-JF-MM/platform_system_vold" groups="pdk" remote="aojp" />
 </manifest>
