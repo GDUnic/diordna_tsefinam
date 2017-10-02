@@ -565,5 +565,6 @@
 	<project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" />
 
 	<!-- Add all tracked DU/AOSP repos -->
-	<include name="n7x_default.xml" />
+	<include name="snippets/du.xml" />
+	<include name="snippets/gemini.xml" />
 </manifest>
