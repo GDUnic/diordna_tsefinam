@@ -37,15 +37,15 @@
 	<!-- <project path="external/yaffs2" name="LineageOS/android_external_yaffs2" remote="los" /> -->
 	<!-- <project path="external/zip" name="LineageOS/android_external_zip" remote="los" /> -->
 
-	<project path="external/ant-wireless/ant_native" name="LineageOS/android_external_ant-wireless_ant_native" />
-	<project path="external/ant-wireless/ant_service" name="LineageOS/android_external_ant-wireless_ant_service" />
-	<project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" />
-	<project path="external/brctl" name="LineageOS/android_external_brctl" />
-	<project path="external/connectivity" name="LineageOS/android_external_connectivity" />
-	<project path="external/ebtables" name="LineageOS/android_external_ebtables" />
-	<!-- <project path="external/gson" name="LineageOS/android_external_gson" /> -->
-	<project path="external/json-c" name="LineageOS/android_external_json-c" />
-	<project path="external/powertop" name="LineageOS/android_external_powertop" />
+	<project path="external/ant-wireless/ant_native" name="LineageOS/android_external_ant-wireless_ant_native" remote="los" />
+	<project path="external/ant-wireless/ant_service" name="LineageOS/android_external_ant-wireless_ant_service" remote="los" />
+	<project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" remote="los" />
+	<project path="external/brctl" name="LineageOS/android_external_brctl" remote="los" />
+	<project path="external/connectivity" name="LineageOS/android_external_connectivity" remote="los" />
+	<project path="external/ebtables" name="LineageOS/android_external_ebtables" remote="los" />
+	<!-- <project path="external/gson" name="LineageOS/android_external_gson" remote="los" /> -->
+	<project path="external/json-c" name="LineageOS/android_external_json-c" remote="los" />
+	<project path="external/powertop" name="LineageOS/android_external_powertop" remote="los" />
 
 	<!-- DEVICE HARDWARE -->
 	<!-- <project path="hardware/qcom/audio/default" name="LineageOS/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" remote="los" /> -->
