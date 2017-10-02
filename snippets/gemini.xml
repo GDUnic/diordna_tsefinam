@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="github" revision="gemini-nougat-caf" />
+	<remote name="gdu"
+			fetch="https://github.com/" 
+			sync-c="true"
+			sync-f="true"
+			sync-j="8"
+          	clone-depth="1" />
+
+	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" />
 
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
-	<project path="device/xiaomi/gemini" name="GDUnic/diordna_ecived_imoaix_inimeg" remote="github" revision="gemini-nougat-caf" />
+	<project path="device/xiaomi/gemini" name="GDUnic/diordna_ecived_imoaix_inimeg" remote="gdu" />
 	<project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="cm-14.1" />
 	<project path="vendor/xiaomi" name="ACollect/diordna_rodnev_imoaix" remote="github" revision="gemini-nougat" />
 
