@@ -7,6 +7,8 @@
           	sync-j="4" 
           	clone-depth="1" />
 
+    <project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" remote="los" />
+    
 	<!-- <project path="system/bt" name="LineageOS/android_system_bt" groups="pdk" remote="los" /> -->
 	<!-- <project path="system/extras" name="LineageOS/android_system_extras" groups="pdk" remote="los" /> -->
 	<!-- <project path="system/extras/su" name="LineageOS/android_system_extras_su" remote="los" /> -->
