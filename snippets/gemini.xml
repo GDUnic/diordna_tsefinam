@@ -2,6 +2,7 @@
 <manifest>
 	<remote name="gdu"
 			fetch="https://github.com/" 
+			revision="gemini-nougat-caf"
 			sync-c="true"
 			sync-f="true"
 			sync-j="8"
