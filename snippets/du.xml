@@ -24,7 +24,7 @@
 	<project path="bootable/recovery" name="android_bootable_recovery" remote="du" />
 	<project path="development" name="android_development" remote="du" />
 	<project path="libcore" name="android_libcore" remote="du" />
-	<project path="manifest" name="android_manifest" remote="du" revision="n7x-caf" />
+	<!-- <project path="manifest" name="android_manifest" remote="du" revision="n7x-caf" /> -->
 
 	<!-- external -->
 	<project path="external/changeloglib" name="android_external_changeloglib" remote="du" />
