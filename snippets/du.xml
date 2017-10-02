@@ -87,7 +87,7 @@
 	<project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="du" />
 	<project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="du" />
 	<project path="hardware/ril" name="android_hardware_ril" remote="du" />
-	<project path="hardware/ril-caf" name="android_hardware_ril" remote="du" revision="n7x-caf" />
+	<!-- <project path="hardware/ril-caf" name="android_hardware_ril" remote="du" revision="n7x-caf" /> -->
 
 	<!--packages-->
 	<project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="du" />
