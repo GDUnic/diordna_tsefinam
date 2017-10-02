@@ -23,13 +23,13 @@
 	<project path="external/libncurses" name="LineageOS/android_external_libncurses" remote="los" />
 	<project path="external/libnfc-nxp" name="LineageOS/android_external_libnfc-nxp" remote="los" />
 	<project path="external/libtar" name="LineageOS/android_external_libtar" remote="los" />
-	<!-- <project path="external/libtruezip" name="LineageOS/android_external_libtruezip" remote="los" />
-	<project path="external/lzo" name="LineageOS/android_external_lzo" remote="los" /> -->
+	<!-- <project path="external/libtruezip" name="LineageOS/android_external_libtruezip" remote="los" /> -->
+	<!-- <project path="external/lzo" name="LineageOS/android_external_lzo" remote="los" /> -->
 	<project path="external/nano" name="LineageOS/android_external_nano" remote="los" />
 	<project path="external/ntfs-3g" name="LineageOS/android_external_ntfs-3g" remote="los" />
 	<!-- <project path="external/p7zip" name="LineageOS/android_external_p7zip" remote="los" /> -->
 	<project path="external/pigz" name="LineageOS/android_external_pigz" remote="los" />
-	<!-- <project path="external/rsync" name="LineageOS/android_external_rsync" remote="los" />
+	<!-- <project path="external/rsync" name="LineageOS/android_external_rsync" remote="los" /> -->
 	<!-- <project path="external/stagefright-plugins" name="LineageOS/android_external_stagefright-plugins" remote="los" /> -->
 	<!-- <project path="external/uicommon" name="LineageOS/android_external_cyanogen_UICommon" remote="los" /> -->
 	<!-- <project path="external/unrar" name="LineageOS/android_external_unrar" remote="los" /> -->
