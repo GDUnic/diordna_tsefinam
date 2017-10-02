@@ -10,7 +10,6 @@
 	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="los" />
 	<project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="los" />
 
-	<project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" remote="los" />
 	<project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" remote="los" />
 
 	<project path="external/bash" name="LineageOS/android_external_bash" remote="los" />
