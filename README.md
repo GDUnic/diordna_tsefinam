@@ -1,6 +1,10 @@
 # Dirty Unicorns #
 [<center><img src="https://lh3.googleusercontent.com/-p9S_rIap_No/V9iIHcrU1_I/AAAAAAAAEPk/Mba0HIFDvR8oE_1hmfj0SGWqlx561mZBwCL0B/w971-h547-n-no/12.png" height="100%" width="100%;"/></center>](https://github.com/dirtyunicorns)
 
+repo init -u https://github.com/GDUnic/diordna_tsefinam.git -b gemini-nougat-caf
+repo sync -f --force-sync --no-clone-bundle
+
+
 ## Setup your build enivornment & Sync our source ##
 To setup your build enivornment and sync DU, please follow this guide: [Link](https://raw.githubusercontent.com/nathanchance/Android-Tools/master/Guides/Building_AOSP.txt)
 
