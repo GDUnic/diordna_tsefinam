@@ -8,7 +8,8 @@
 
 
 	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="github" revision="gemini-oreo" />
-
+	<project path="art" name="GDUnic/diordna_tra" remote="github" revision="gemini-oreo" />
+	
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
 	<project path="device/xiaomi/gemini" name="GDUnic/diordna_ecived_imoaix_inimeg" remote="github" revision="gemini-oreo" />
 	<project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="lineage-15.0" />
