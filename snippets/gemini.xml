@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="bionic" name="ACollect/diordna_cinoib" remote="github" revision="dirty-oreo" />
+	<!-- <project path="bionic" name="ACollect/diordna_cinoib" remote="github" revision="dirty-oreo" /> -->
 	<project path="build/soong" name="ACollect/diordna_dliub_gnoos" remote="github" revision="dirty-oreo" >
 		<linkfile src="root.bp" dest="Android.bp" />
 		<linkfile src="bootstrap.bash" dest="bootstrap.bash" />
