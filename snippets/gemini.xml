@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<!-- <project path="bionic" name="ACollect/diordna_cinoib" remote="github" revision="dirty-oreo" /> -->
-	<project path="build/soong" name="ACollect/diordna_dliub_gnoos" remote="github" revision="dirty-oreo" >
+	<remote name="gdu"
+           	fetch="https://github.com/" 
+           	revision="gemini-oreo"
+           	sync-c="true"
+          	sync-j="4"  
+          	clone-depth="1" />
+
+	<project path="art" name="GDUnic/diordna_tra" remote="gdu" />
+	<project path="bionic" name="GDUnic/diordna_cinoib" remote="gdu" />
+	<project path="build/soong" name="GDUnic/diordna_dliub_gnoos" remote="gdu" >
 		<linkfile src="root.bp" dest="Android.bp" />
 		<linkfile src="bootstrap.bash" dest="bootstrap.bash" />
 	</project>
-
-
-	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="github" revision="gemini-oreo" />
-	<project path="art" name="GDUnic/diordna_tra" remote="github" revision="gemini-oreo" />
+	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" />
 	
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
-	<project path="device/xiaomi/gemini" name="GDUnic/diordna_ecived_imoaix_inimeg" remote="github" revision="gemini-oreo" />
+	<project path="device/xiaomi/gemini" name="GDUnic/diordna_ecived_imoaix_inimeg" remote="gdu" />
 	<project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="lineage-15.0" />
 	<project path="vendor/xiaomi" name="ACollect/diordna_rodnev_imoaix" remote="github" revision="gemini-nougat" />
 
