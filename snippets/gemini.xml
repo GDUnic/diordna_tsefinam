@@ -5,8 +5,7 @@
 			revision="gemini-nougat-caf"
 			sync-c="true"
 			sync-f="true"
-			sync-j="8"
-          	clone-depth="1" />
+			sync-j="8" />
 
 	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" />
 

@@ -4,8 +4,7 @@
            	fetch="https://github.com/" 
            	revision="cm-14.1"
            	sync-c="true"
-          	sync-j="4" 
-          	clone-depth="1" />
+          	sync-j="4"  />
 
     <project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" remote="los" />
     

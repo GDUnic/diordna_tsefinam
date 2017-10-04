@@ -6,8 +6,7 @@
 			review="gerrit.dirtyunicorns.com"  
 			sync-c="true"
 			sync-f="true"
-			sync-j="8"
-          	clone-depth="1" />
+			sync-j="8" />
 
 	<!-- general -->
 	<project path="build" name="android_build" remote="du" revision="n7x-caf">

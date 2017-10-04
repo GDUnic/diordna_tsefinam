@@ -4,8 +4,7 @@
 			fetch="https://github.com/" 
 			sync-c="true"
 			sync-f="true"
-			sync-j="8"
-          	clone-depth="1" />
+			sync-j="8" />
 
 	<remote name="aosp"
 			fetch="https://android.googlesource.com"
@@ -15,8 +14,7 @@
 			revision="refs/tags/android-7.1.2_r33"
 			sync-c="true"
 			sync-f="true"
-			sync-j="8"
-          	clone-depth="1" />
+			sync-j="8" />
 
 	<!-- <project path="build" name="platform/build" groups="pdk" >
 		<copyfile src="core/root.mk" dest="Makefile" />
