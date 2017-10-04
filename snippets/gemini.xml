@@ -17,6 +17,8 @@
 
 	<!-- HARDWARE -->
 	<project path="hardware/qcom/display" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" />
+	<!-- <project path="hardware/qcom/audio" name="GDUnic/diordna_erawdrah_mocq_oidua" remote="gdu" /> -->
+	<!-- <project path="hardware/qcom/media" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="gdu" /> -->
 	
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
 	<project path="device/xiaomi/gemini" name="GDUnic/diordna_ecived_imoaix_inimeg" remote="gdu" />
