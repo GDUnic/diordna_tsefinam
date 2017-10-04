@@ -14,6 +14,9 @@
 		<linkfile src="bootstrap.bash" dest="bootstrap.bash" />
 	</project>
 	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" />
+
+	<!-- HARDWARE -->
+	<project path="hardware/qcom/display" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" />
 	
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
 	<project path="device/xiaomi/gemini" name="GDUnic/diordna_ecived_imoaix_inimeg" remote="gdu" />
