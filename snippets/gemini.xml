@@ -7,6 +7,13 @@
           	sync-j="4"  
           	clone-depth="1" />
 
+    <remote name="acol"
+           	fetch="https://github.com/" 
+           	revision="dirty-oreo"
+           	sync-c="true"
+          	sync-j="4"  
+          	clone-depth="1" />
+
 	<project path="art" name="GDUnic/diordna_tra" remote="gdu" />
 	<project path="bionic" name="GDUnic/diordna_cinoib" remote="gdu" />
 	<!-- <project path="build/make" name="GDUnic/diordna_dliub" remote="du" >
@@ -33,9 +40,10 @@
 	<!-- <project path="device/qcom/common" name="GDUnic/diordna_ecived_mocq_nommoc" remote="gdu" /> -->
 	
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
-	<project path="device/xiaomi/gemini" name="GDUnic/diordna_ecived_imoaix_inimeg" remote="gdu" />
+	<project path="device/xiaomi/gemini" name="ACollect/diordna_ecived_imoaix_inimeg" remote="acol" />
+	<project path="device/xiaomi/msm8996" name="ACollect/diordna_ecived_imoaix_6998msm" remote="acol" />
 	<project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="lineage-15.0" />
-	<project path="vendor/xiaomi" name="ACollect/diordna_rodnev_imoaix" remote="github" revision="gemini-nougat" />
+	<project path="vendor/xiaomi" name="ACollect/yrateirporp_rodnev_imoaix" remote="acol" revision="gemini-nougat" />
 
 	<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.0" />
 	<!-- <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="github" revision="lineage-15.0" /> -->
