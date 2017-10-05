@@ -25,7 +25,8 @@
 	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" />
 
 	<!-- HARDWARE -->
-	<project path="hardware/qcom/display" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" />
+	<project path="hardware/qcom/display" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" revision="gemini-nougat-caf" />
+	<project path="hardware/qcom/display-caf" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" revision="gemini-nougat-8996" />
 	<!-- <project path="hardware/qcom/audio" name="GDUnic/diordna_erawdrah_mocq_oidua" remote="gdu" /> -->
 	<!-- <project path="hardware/qcom/media" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="gdu" /> -->
 
