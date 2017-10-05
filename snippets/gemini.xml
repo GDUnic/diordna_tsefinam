@@ -7,12 +7,20 @@
 			sync-f="true"
 			sync-j="8" />
 
+	<remote name="acol"
+			fetch="https://github.com/" 
+			revision="gemini-nougat"
+			sync-c="true"
+			sync-f="true"
+			sync-j="8" />
+
 	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" />
 
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
-	<project path="device/xiaomi/gemini" name="GDUnic/diordna_ecived_imoaix_inimeg" remote="gdu" revision="gemini-nougat" />
+	<project path="device/xiaomi/gemini" name="ACollect/diordna_ecived_imoaix_inimeg" remote="acol" />
+	<project path="device/xiaomi/msm8996-common" name="ACollect/diordna_ecived_imoaix_6998msm-nommoc" remote="acol" />
 	<project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="cm-14.1" />
-	<project path="vendor/xiaomi" name="ACollect/diordna_rodnev_imoaix" remote="github" revision="gemini-nougat" />
+	<project path="vendor/xiaomi" name="ACollect/yrateirporp_rodnev_imoaix" remote="acol" />
 
 	<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
 	<project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="github" revision="cm-14.1" />
