@@ -7,6 +7,12 @@
            review="gerrit.dirtyunicorns.com" 
            clone-depth="1" />
 
+  <remote  name="duc"
+           revision="o8x-caf"
+           fetch="https://github.com/DirtyUnicorns/"
+           review="gerrit.dirtyunicorns.com" 
+           clone-depth="1" />
+
   <!-- DU REPOS -->
 
   <!-- general -->
@@ -28,6 +34,8 @@
   </project> -->
 
   <!-- <project path="manifest" name="android_manifest" remote="du" /> -->
+  <project path="manifest" name="android_manifest" remote="du" />
+  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="duc" />
 
   <!-- system -->
   <project path="system/core" name="android_system_core" remote="du" />
