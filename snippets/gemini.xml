@@ -39,6 +39,10 @@
 	<!-- HALS -->
 	<!-- <project path="device/qcom/common" name="GDUnic/diordna_ecived_mocq_nommoc" remote="gdu" /> -->
 	
+	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" />
+
+
+	
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
 	<project path="device/xiaomi/gemini" name="ACollect/diordna_ecived_imoaix_inimeg" remote="acol" />
 	<project path="device/xiaomi/msm8996-common" name="ACollect/diordna_ecived_imoaix_6998msm" remote="acol" />
@@ -49,4 +53,5 @@
 	<!-- <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="github" revision="lineage-15.0" /> -->
 	<!-- <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="github" revision="lineage-15.0" /> -->
 	<!-- <project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" remote="github" revision="lineage-15.0" /> -->
+
 </manifest>
