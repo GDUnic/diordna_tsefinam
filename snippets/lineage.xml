@@ -23,7 +23,4 @@
 	<!-- <project path="system/security" name="LineageOS/android_system_security" groups="pdk" remote="los" /> -->
 	<!-- <project path="system/tools/aidl" name="LineageOS/android_system_tools_aidl" groups="pdk" remote="los" /> -->
 	<!-- <project path="system/vold" name="LineageOS/android_system_vold" groups="pdk" remote="los" /> -->
-
-
-	<project path="prebuilts/cmsdk" name="LineageOS/android_prebuilts_cmsdk" groups="qcom" remote="los" />
 </manifest>
