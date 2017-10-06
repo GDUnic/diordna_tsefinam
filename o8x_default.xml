@@ -34,7 +34,7 @@
   </project> -->
 
   <!-- <project path="manifest" name="android_manifest" remote="du" /> -->
-  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="duc" />
+  <!-- <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="duc" /> -->
   <!-- <project path="device/qcom/common" name="android_device_qcom_common" remote="duc" /> -->
 
   <!-- system -->
