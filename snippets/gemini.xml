@@ -42,6 +42,8 @@
 	
 	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" />
 
+	<project path="prebuilts/cmsdk" name="ACollect/diordna_stliuberp_kdsmc" remote="acol" revision="gemini-nougat" />
+	<project path="vendor/cmsdk" name="ACollect/diordna_rodnev_kdsmc" remote="acol" version="gemini-nougat" />
 
 
 	
