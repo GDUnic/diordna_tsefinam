@@ -23,7 +23,7 @@
 	<project path="vendor/xiaomi" name="ACollect/yrateirporp_rodnev_imoaix" remote="acol" revision="gemini-nougat" />
 
 	<project path="prebuilts/cmsdk" name="ACollect/diordna_stliuberp_kdsmc" remote="acol" revision="gemini-nougat" />
-	<project path="vendor/cmsdk" name="ACollect/diordna_rodnev_kdsmc" remote="acol" version="gemini-nougat" />
+	<project path="vendor/cmsdk" name="ACollect/diordna_rodnev_kdsmc" remote="acol" revision="gemini-nougat" />
 
 	<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
 	<project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="github" revision="cm-14.1" />
