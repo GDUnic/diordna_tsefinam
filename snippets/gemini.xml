@@ -14,7 +14,7 @@
           	sync-j="4"  
           	clone-depth="1" />
 
-	<project path="art" name="GDUnic/diordna_tra" remote="gdu" />
+	<!-- <project path="art" name="GDUnic/diordna_tra" remote="gdu" /> -->
 	<project path="bionic" name="GDUnic/diordna_cinoib" remote="gdu" />
 	<!-- <project path="build/make" name="GDUnic/diordna_dliub" remote="du" >
 		<copyfile src="core/root.mk" dest="Makefile" />
