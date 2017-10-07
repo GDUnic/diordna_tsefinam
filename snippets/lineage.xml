@@ -7,8 +7,9 @@
           	sync-j="4"  
           	clone-depth="1" />
 
-	<!-- <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="los" /> -->
-	<!-- <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="los" /> -->
+	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="los" />
+	<project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="los" />
+	<project path="system/sepolicy" name="LineageOS/android_system_sepolicy" remote="los" />
 
 	<project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" remote="los" />
 

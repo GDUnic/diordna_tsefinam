@@ -37,10 +37,10 @@
 	<!-- <project path="hardware/qcom/media" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="gdu" /> -->
 
 	<!-- HALS -->
-	<project path="device/qcom/common" name="GDUnic/diordna_ecived_mocq_nommoc" remote="gdu" />
-	<project path="device/qcom/sepolicy" name="GDUnic/diordna_ecived_mocq_ycilopes" remote="gdu" />
+	<!-- <project path="device/qcom/common" name="GDUnic/diordna_ecived_mocq_nommoc" remote="gdu" /> -->
+	<!-- <project path="device/qcom/sepolicy" name="GDUnic/diordna_ecived_mocq_ycilopes" remote="gdu" /> -->
 	
-	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" />
+	<!-- <project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" /> -->
 
 	
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
