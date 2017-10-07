@@ -1,3 +1,12 @@
+$ repo init -u https://github.com/GDUnic/diordna_tsefinam.git -b gemini-oreo-caf
+$ repo sync -f --force-sync --no-clone-bundle --no-tags
+
+$ make clobber
+$ . build/envsetup.sh
+$ lunch
+$ brunch gemini | tee ~/logs/du-20171007-001.log
+
+
 # Dirty Unicorns #
 [<center><img src="https://lh3.googleusercontent.com/-p9S_rIap_No/V9iIHcrU1_I/AAAAAAAAEPk/Mba0HIFDvR8oE_1hmfj0SGWqlx561mZBwCL0B/w971-h547-n-no/12.png" height="100%" width="100%;"/></center>](https://github.com/dirtyunicorns)
 
