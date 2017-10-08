@@ -25,8 +25,8 @@
 	</project>
 	
 	<!-- DEVICE -->
-	<!-- <project path="device/qcom/common" name="android_device_qcom_common" remote="du" /> -->
-	<project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="du" />
+	<project path="device/qcom/common" name="android_device_qcom_common" remote="du" />
+	<!-- <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="du" /> -->
 
 	<!-- EXTERNAL -->
 	<project path="external/ebtables" name="android_external_ebtables" remote="du" />
