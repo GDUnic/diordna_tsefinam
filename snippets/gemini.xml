@@ -24,8 +24,8 @@
 	<project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="lineage-15.0" />
 	<project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" clone-depth="1" />
 
-	<!-- <project path="device/qcom/sepolicy" name="GDUnic/diordna_ecived_mocq_ycilopes" remote="gdu" /> -->
-	<!-- <project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" revision="gemini-oreo" /> -->
+	<project path="device/qcom/sepolicy" name="GDUnic/diordna_ecived_mocq_ycilopes" remote="gdu" />
+	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" revision="gemini-oreo" />
 
 	<project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" remote="github" revision="lineage-15.0" />
 </manifest>
