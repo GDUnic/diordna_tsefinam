@@ -26,7 +26,7 @@
 	
 	<!-- DEVICE -->
 	<project path="device/qcom/common" name="android_device_qcom_common" remote="du" />
-	<!-- <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="du" /> -->
+	<project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="du" />
 
 	<!-- EXTERNAL -->
 	<project path="external/ebtables" name="android_external_ebtables" remote="du" />
@@ -44,7 +44,7 @@
 	<project path="system/bt" name="android_system_bt" remote="du" />
 	<project path="system/core" name="android_system_core" remote="du" />
 	<project path="system/nfc" name="android_system_nfc" remote="du" revision="o8x" />
-	<!-- <project path="system/sepolicy" name="android_system_sepolicy" remote="du" revision="o8x" /> -->
+	<project path="system/sepolicy" name="android_system_sepolicy" remote="du" revision="o8x" />
 	<project path="system/vold" name="android_system_vold" remote="du" />
 
 	<!-- FRAMEWORKS -->
