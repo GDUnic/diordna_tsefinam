@@ -30,7 +30,7 @@
 	<project path="external/ant-wireless/ant_native" name="GDUnic/diordna_lanretxe_tna-sseleriw_tna_evitan" remote="gdu" />
 	<project path="external/ant-wireless/ant_service" name="GDUnic/diordna_lanretxe_tna-sseleriw_tna_ecivres" remote="gdu" />
 	
-	<project path="system/bt" name="GDUnic/diordna_metsys_tb" remote="gdu" />
+	<!-- <project path="system/bt" name="GDUnic/diordna_metsys_tb" remote="gdu" /> -->
 	<project path="system/qcom" name="GDUnic/diordna_metsys_mocq" remote="gdu" />
 	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" revision="gemini-oreo" />
 
