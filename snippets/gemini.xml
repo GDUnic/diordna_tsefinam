@@ -31,4 +31,5 @@
 	<project path="external/ant-wireless/ant_native" name="LineageOS/android_external_ant-wireless_ant_native" remote="github" revision="lineage-15.0" />
 	<project path="external/ant-wireless/ant_service" name="LineageOS/android_external_ant-wireless_ant_service" remote="github" revision="lineage-15.0" />
 	<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.0" />
+	<project path="system/qcom" name="LineageOS/android_system_qcom" remote="github" revision="lineage-15.0" />
 </manifest>
