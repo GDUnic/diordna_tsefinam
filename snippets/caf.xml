@@ -8,10 +8,8 @@
 			clone-depth="1" />
 
 	<!-- EXTERNAL -->
-	<!-- <project path="external/brctl" name="quic/la/platform/external/brctl" remote="caf" revision="LA.AF.1.2.1_rb1.27" /> -->
-	<project path="external/brctl" name="quic/la/platform/external/brctl" remote="caf" revision="data-external.lnx.2.9.1.r3-rel"/>
-	<!-- <project path="external/json-c" name="quic/la/platform/external/json-c" remote="caf" revision="android-external.lnx.2.9.1.r5-rel" /> -->
-	<project path="external/json-c" name="quic/la/platform/external/json-c" remote="caf" revision="android-external.lnx.2.9.1.r3-rel"/>
+	<project path="external/brctl" name="quic/la/platform/external/brctl" remote="caf" revision="LA.AF.1.2.1_rb1.27" />
+	<project path="external/json-c" name="quic/la/platform/external/json-c" remote="caf" revision="android-external.lnx.2.9.1.r5-rel" />
 	<project path="external/libnfnetlink" name="quic/la/platform/external/libnfnetlink" remote="caf" revision="LA.AF.1.2.1_rb1.27" />
 	<project path="external/libnfc-nxp" name="external/gigabyte/platform/external/libnfc-nxp" remote="caf" revision="caf/LA.AF.1.1.1_rb1.18" />
 	<project path="external/toybox" name="quic/la/platform/external/toybox" remote="caf" revision="aosp-new/oreo-r6-release" />
