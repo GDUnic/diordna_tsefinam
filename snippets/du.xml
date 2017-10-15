@@ -43,6 +43,7 @@
 	<!-- SYSTEM -->
 	<project path="system/bt" name="android_system_bt" remote="du" />
 	<project path="system/core" name="android_system_core" remote="du" />
+	<project path="system/media" name="android_system_media" remote="du" revision="o8x" />
 	<project path="system/nfc" name="android_system_nfc" remote="du" revision="o8x" />
 	<!-- <project path="system/sepolicy" name="android_system_sepolicy" remote="du" revision="o8x" /> -->
 	<project path="system/vold" name="android_system_vold" remote="du" />
