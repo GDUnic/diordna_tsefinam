@@ -38,5 +38,5 @@
 	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" revision="gemini-oreo" />
 
 	<!-- LOS -->
-	<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.0" />
+	<project path="packages/resources/devicesettings" name="ACollect/diordna_segakcap_secruoser_sgnittesecived" remote="acol" />
 </manifest>
