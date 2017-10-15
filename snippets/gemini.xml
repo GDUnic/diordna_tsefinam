@@ -33,7 +33,7 @@
 	<project path="hardware/qcom/bt" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" revision="gemini-oreo" />
 	<project path="hardware/qcom/bt-caf" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" />
 
-	<project path="packages/apps/Settings" name="GDUnic/diordna_segakcap_sppa_Sgnittes" remote="du" revision="oreo" />
+	<project path="packages/apps/Settings" name="GDUnic/diordna_segakcap_sppa_Sgnittes" remote="gdu" revision="oreo" />
 
 	<!-- <project path="system/bt" name="GDUnic/diordna_metsys_tb" remote="gdu" /> -->
 	<project path="system/qcom" name="GDUnic/diordna_metsys_mocq" remote="gdu" />
