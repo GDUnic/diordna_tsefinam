@@ -2,7 +2,7 @@
 <manifest>
 	<remote name="gdu"
 			fetch="https://github.com/" 
-			revision="gemini-nougat-caf"
+			revision="nougat"
 			sync-c="true"
 			sync-f="true"
 			sync-j="8" />
@@ -14,7 +14,7 @@
 			sync-f="true"
 			sync-j="8" />
 
-	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" />
+	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" revision="nougat-caf" />
 
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
 	<project path="device/xiaomi/gemini" name="ACollect/diordna_ecived_imoaix_inimeg" remote="acol" />
