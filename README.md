@@ -2,6 +2,7 @@
 [<center><img src="https://lh3.googleusercontent.com/-p9S_rIap_No/V9iIHcrU1_I/AAAAAAAAEPk/Mba0HIFDvR8oE_1hmfj0SGWqlx561mZBwCL0B/w971-h547-n-no/12.png" height="100%" width="100%;"/></center>](https://github.com/dirtyunicorns)
 
 repo init -u https://github.com/GDUnic/diordna_tsefinam.git -b oreo-caf
+
 repo sync -f --force-sync --no-clone-bundle --no-tags
 
 ## Setup your build enivornment & Sync our source ##
