@@ -40,5 +40,5 @@
 	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" revision="gemini-oreo" />
 
 	<!-- LOS -->
-	<project path="packages/resources/devicesettings" name="ACollect/diordna_segakcap_secruoser_sgnittesecived" remote="acol" />
+	<project path="packages/resources/devicesettings" name="ACollect/diordna_segakcap_secruoser_sgnittesecived" remote="acol" revision="oreo" />
 </manifest>
