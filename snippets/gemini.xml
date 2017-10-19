@@ -30,8 +30,8 @@
 	<!-- <project path="external/ant-wireless/ant_native" name="GDUnic/diordna_lanretxe_tna-sseleriw_tna_evitan" remote="gdu" /> -->
 	<!-- <project path="external/ant-wireless/ant_service" name="GDUnic/diordna_lanretxe_tna-sseleriw_tna_ecivres" remote="gdu" /> -->
 
-	<!-- <project path="hardware/qcom/bt" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" /> -->
-	<!-- <project path="hardware/qcom/bt-caf" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" revision="oreo-caf" /> -->
+	<project path="hardware/qcom/bt" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" />
+	<project path="hardware/qcom/bt-caf" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" revision="oreo-caf" />
 	<!-- <project path="hardware/qcom/display" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" /> -->
 	<!-- <project path="hardware/qcom/display-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" revision="oreo-caf" /> -->
 
