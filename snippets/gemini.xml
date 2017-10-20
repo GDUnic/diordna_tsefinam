@@ -34,8 +34,8 @@
 	<project path="hardware/qcom/bt-caf" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" revision="oreo-caf" />
 	<!-- <project path="hardware/qcom/display" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" /> -->
 	<!-- <project path="hardware/qcom/display-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" revision="oreo-caf" /> -->
-	<project path="hardware/qcom/media" name="GDUnic/android_hardware_qcom_media" remote="gdu" />
-	<project path="hardware/qcom/media-caf/msm8996" name="GDUnic/android_hardware_qcom_media" remote="du" revision="oreo-caf" />
+	<project path="hardware/qcom/media" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="gdu" />
+	<project path="hardware/qcom/media-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="du" revision="oreo-caf" />
 
 	<!-- <project path="packages/apps/Settings" name="GDUnic/diordna_segakcap_sppa_Sgnittes" remote="gdu" /> -->
 
