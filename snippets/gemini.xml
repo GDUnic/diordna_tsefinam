@@ -32,8 +32,8 @@
 
 	<project path="hardware/qcom/bt" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" />
 	<project path="hardware/qcom/bt-caf" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" revision="oreo-caf" />
-	<!-- <project path="hardware/qcom/display" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" /> -->
-	<!-- <project path="hardware/qcom/display-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" revision="oreo-caf" /> -->
+	<project path="hardware/qcom/display" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" />
+	<project path="hardware/qcom/display-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" revision="oreo-caf" />
 	<project path="hardware/qcom/media" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="gdu" />
 	<project path="hardware/qcom/media-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="gdu" revision="oreo-caf" />
 
