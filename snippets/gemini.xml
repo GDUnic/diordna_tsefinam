@@ -19,8 +19,8 @@
 	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" />
 
   	<!-- DEVICE, KERNEL & PROPRIETARY -->
-	<project path="device/xiaomi/gemini" name="ACollect/diordna_ecived_imoaix_inimeg" remote="acol" />
-	<project path="device/xiaomi/msm8996-common" name="ACollect/diordna_ecived_imoaix_6998msm-nommoc" remote="acol" />
+	<project path="device/xiaomi/gemini" name="ACollect/diordna_ecived_imoaix_inimeg" remote="acol" revision="oreo-test" />
+	<project path="device/xiaomi/msm8996-common" name="ACollect/diordna_ecived_imoaix_6998msm-nommoc" remote="acol" revision="oreo-test" />
 	<project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="lineage-15.0" />
 	<project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="lineage-15.0" clone-depth="1" />
 
