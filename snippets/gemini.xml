@@ -2,7 +2,7 @@
 <manifest>
 	<remote name="gdu"
 			fetch="https://github.com/"
-			revision="oreo"
+			revision="o8x-caf"
 			sync-c="true"
 			sync-f="true"
 			sync-j="4" 
@@ -24,25 +24,26 @@
 	<project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="lineage-15.0" />
 	<project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="lineage-15.0" clone-depth="1" />
 
-	<project path="device/qcom/sepolicy" name="GDUnic/diordna_ecived_mocq_ycilopes" remote="gdu" />
-
-	<project path="external/ant-wireless/antradio-library" name="GDUnic/diordna_lanretxe_tna-sseleriw_oidartna-yrarbil" remote="gdu" />
+	<project path="external/ant-wireless/antradio-library" name="GDUnic/diordna_lanretxe_tna-sseleriw_oidartna-yrarbil" remote="gdu" revision="oreo" />
 	<!-- <project path="external/ant-wireless/ant_native" name="GDUnic/diordna_lanretxe_tna-sseleriw_tna_evitan" remote="gdu" /> -->
 	<!-- <project path="external/ant-wireless/ant_service" name="GDUnic/diordna_lanretxe_tna-sseleriw_tna_ecivres" remote="gdu" /> -->
 
-	<project path="hardware/qcom/bt" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" />
-	<project path="hardware/qcom/bt-caf" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" revision="oreo-caf" />
+	<!-- <project path="frameworks/base" name="GDUnic/diordna_skrowemarf_esab" remote="gdu" /> -->
+
+	<project path="hardware/qcom/bt" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" revision="o8x" />
+	<project path="hardware/qcom/bt-caf" name="GDUnic/diordna_erawdrah_mocq_tb" remote="gdu" />
 	<project path="hardware/qcom/display" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" />
-	<project path="hardware/qcom/display-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" revision="oreo-caf" />
+	<project path="hardware/qcom/display-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_yalpsid" remote="gdu" revision="o8x-caf-8996" />
 	<project path="hardware/qcom/media" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="gdu" />
-	<project path="hardware/qcom/media-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="gdu" revision="oreo-caf" />
+	<project path="hardware/qcom/media-caf/msm8996" name="GDUnic/diordna_erawdrah_mocq_aidem" remote="gdu" revision="o8x-caf-8996" />
 
 	<!-- <project path="packages/apps/Settings" name="GDUnic/diordna_segakcap_sppa_Sgnittes" remote="gdu" /> -->
+	<project path="packages/resources/devicesettings" name="ACollect/diordna_segakcap_secruoser_sgnittesecived" remote="acol" revision="o8x" />
 
 	<!-- <project path="system/bt" name="GDUnic/diordna_metsys_tb" remote="gdu" /> -->
-	<project path="system/qcom" name="GDUnic/diordna_metsys_mocq" remote="gdu" />
-	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" />
+	<project path="system/qcom" name="GDUnic/diordna_metsys_mocq" remote="gdu" revision="oreo" />
 
-	<!-- LOS -->
-	<project path="packages/resources/devicesettings" name="ACollect/diordna_segakcap_secruoser_sgnittesecived" remote="acol" revision="oreo" />
+	<!-- SEPOLICY -->
+	<project path="device/qcom/sepolicy" name="GDUnic/diordna_ecived_mocq_ycilopes" remote="gdu" revision="oreo" />
+	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" revision="oreo" />
 </manifest>
