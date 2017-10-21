@@ -41,9 +41,9 @@
 	<project path="packages/resources/devicesettings" name="ACollect/diordna_segakcap_secruoser_sgnittesecived" remote="acol" revision="o8x" />
 
 	<!-- <project path="system/bt" name="GDUnic/diordna_metsys_tb" remote="gdu" /> -->
-	<project path="system/qcom" name="GDUnic/diordna_metsys_mocq" remote="gdu" revision="oreo" />
+	<project path="system/qcom" name="GDUnic/diordna_metsys_mocq" remote="gdu" />
 
 	<!-- SEPOLICY -->
-	<project path="device/qcom/sepolicy" name="GDUnic/diordna_ecived_mocq_ycilopes" remote="gdu" revision="oreo" />
-	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" revision="oreo" />
+	<project path="device/qcom/sepolicy" name="GDUnic/diordna_ecived_mocq_ycilopes" remote="gdu" />
+	<project path="system/sepolicy" name="GDUnic/diordna_metsys_ycilopes" remote="gdu" revision="o8x" />
 </manifest>
