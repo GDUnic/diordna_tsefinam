@@ -16,7 +16,7 @@
 			sync-j="4" 
 			clone-depth="1" />
 
-	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" revision="oreo-caf" />
+	<project path="manifest" name="GDUnic/diordna_tsefinam" remote="gdu" />
 
   	<!-- DEVICE, KERNEL & PROPRIETARY -->
 	<project path="device/xiaomi/gemini" name="ACollect/diordna_ecived_imoaix_inimeg" remote="acol" />
